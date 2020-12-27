@@ -8,8 +8,8 @@ var foodObj;
 
 function preload()
 {
-  dog_image=loadImage("images/dogImg.png");
-  dog_Image2=loadImage("images/dogImg1.png");
+  dog_image=loadImage("dogImg.png");
+  dog_Image2=loadImage("dogImg1.png");
 }
 
 function setup() 
